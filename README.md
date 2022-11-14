@@ -1,5 +1,5 @@
 # James' Notes
 
 ## Summary
-This repository contains all of the notes taken by me, James Brown, during the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [James Brown](https://github.com/jamesraymondbrown) during the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
 
